@@ -1,0 +1,15 @@
+"Battery_ID","Degradation_Stage","Number_of_Cycles"
+"B0005","Healthy",63
+"B0005","Early Degradation",39
+"B0005","Moderate Degradation",61
+"B0005","Severe Degradation",5
+"B0006","Healthy",34
+"B0006","Early Degradation",26
+"B0006","Moderate Degradation",43
+"B0006","Severe Degradation",65
+"B0007","Healthy",65
+"B0007","Early Degradation",58
+"B0007","Moderate Degradation",45
+"B0018","Healthy",38
+"B0018","Early Degradation",36
+"B0018","Moderate Degradation",58

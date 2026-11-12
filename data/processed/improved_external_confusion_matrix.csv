@@ -1,0 +1,5 @@
+"","Healthy","Early Degradation","Moderate Degradation","Severe Degradation"
+"Healthy",0,34,5,3
+"Early Degradation",0,45,6,13
+"Moderate Degradation",0,58,30,7
+"Severe Degradation",0,0,4,0

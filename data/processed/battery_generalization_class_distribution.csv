@@ -1,0 +1,5 @@
+"Battery_ID","Total_Cycles","Healthy","Early_Degradation","Moderate_Degradation","Severe_Degradation","Severe_Percentage"
+"B0005",168,63,39,61,5,2.97619047619048
+"B0006",168,34,26,43,65,38.6904761904762
+"B0007",168,65,58,45,0,0
+"B0018",132,38,36,58,0,0

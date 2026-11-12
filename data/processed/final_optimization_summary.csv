@@ -1,0 +1,8 @@
+"Metric","Result"
+"Selected Model","XGBoost Trend Regression"
+"CV Accuracy","61.83%"
+"CV Macro F1","0.4868"
+"External Accuracy","52.2%"
+"External Macro F1","0.3989"
+"Training Batteries","31"
+"External Batteries","B0045, B0046, B0047"

@@ -1,0 +1,5 @@
+"Stage","Precision","Recall","F1"
+"Healthy",0,0,0
+"Early Degradation",0.328467153284672,0.703125,0.447761194029851
+"Moderate Degradation",0.666666666666667,0.315789473684211,0.428571428571429
+"Severe Degradation",0,0,0

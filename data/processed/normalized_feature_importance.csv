@@ -1,0 +1,15 @@
+"Feature","Importance"
+"Mean_Current_Relative",0.418434714828454
+"Mean_Voltage_Change",0.171704254901807
+"Mean_Current_Change",0.127188430105844
+"Mean_Voltage_Relative",0.0734129379788985
+"Max_Voltage_Change",0.0616014426240905
+"Mean_Temperature_Change",0.0469830169889653
+"Temperature_Spread_Change",0.0349164216150503
+"Max_Temperature_Change",0.0148643210489664
+"Max_Voltage_Relative",0.013358637581515
+"Mean_Temperature_Relative",0.0130760087672713
+"Max_Temperature_Relative",0.0102400976284198
+"Min_Voltage_Relative",0.00693741634751773
+"Voltage_Range_Change",0.0037219922745993
+"Min_Voltage_Change",0.00356030730860058

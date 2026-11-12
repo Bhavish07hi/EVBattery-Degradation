@@ -1,0 +1,17 @@
+"Actual","Predicted","Freq"
+"Healthy","Healthy",0
+"Early Degradation","Healthy",0
+"Moderate Degradation","Healthy",0
+"Severe Degradation","Healthy",0
+"Healthy","Early Degradation",0
+"Early Degradation","Early Degradation",6
+"Moderate Degradation","Early Degradation",45
+"Severe Degradation","Early Degradation",0
+"Healthy","Moderate Degradation",0
+"Early Degradation","Moderate Degradation",0
+"Moderate Degradation","Moderate Degradation",86
+"Severe Degradation","Moderate Degradation",7
+"Healthy","Severe Degradation",0
+"Early Degradation","Severe Degradation",0
+"Moderate Degradation","Severe Degradation",0
+"Severe Degradation","Severe Degradation",49

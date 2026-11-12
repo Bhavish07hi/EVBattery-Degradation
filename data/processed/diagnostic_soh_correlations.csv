@@ -1,0 +1,15 @@
+"Dataset_Group","Feature","Correlation_With_SOH"
+"External Test","Mean_Voltage",0.62230974621159
+"External Test","Min_Voltage",0.143728501527299
+"External Test","Max_Voltage",0.0150114485505105
+"External Test","Mean_Current",-0.302731504807979
+"External Test","Mean_Temperature",-0.448934989735342
+"External Test","Max_Temperature",-0.269579565246357
+"External Test","Discharge_Capacity",0.58071903586529
+"Training","Mean_Voltage",0.0685123026777597
+"Training","Min_Voltage",-0.0109530731287389
+"Training","Max_Voltage",0.274193805686155
+"Training","Mean_Current",-0.256727612243542
+"Training","Mean_Temperature",0.183988880984546
+"Training","Max_Temperature",0.138437284384809
+"Training","Discharge_Capacity",0.535909176587917

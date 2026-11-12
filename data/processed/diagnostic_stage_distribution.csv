@@ -1,0 +1,9 @@
+"Dataset_Group","Degradation_Stage","n","Percentage"
+"External Test","Early Degradation",64,31.22
+"External Test","Healthy",42,20.49
+"External Test","Moderate Degradation",95,46.34
+"External Test","Severe Degradation",4,1.95
+"Training","Early Degradation",650,30.82
+"Training","Healthy",1051,49.83
+"Training","Moderate Degradation",294,13.94
+"Training","Severe Degradation",114,5.41

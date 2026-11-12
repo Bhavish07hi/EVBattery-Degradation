@@ -1,0 +1,8 @@
+"Feature","Mean_SHAP_Importance"
+"Mean_Voltage",1.25973879229856
+"Mean_Current",0.632104095703695
+"Cycle_Number",0.376451265872722
+"Mean_Temperature",0.111579143039284
+"Max_Voltage",0.0911508112620451
+"Max_Temperature",0.0883947246554314
+"Min_Voltage",0.0356170244605722

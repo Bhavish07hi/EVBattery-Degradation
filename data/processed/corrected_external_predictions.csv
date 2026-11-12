@@ -1,0 +1,206 @@
+"Battery_ID","Actual","Predicted","SOH"
+"B0045","Healthy","Healthy",104.830445670911
+"B0045","Healthy","Healthy",100
+"B0045","Healthy","Severe Degradation",96.9393657832252
+"B0045","Healthy","Healthy",95.0001461098069
+"B0045","Healthy","Early Degradation",93.1487966536257
+"B0045","Early Degradation","Early Degradation",89.6522562227325
+"B0045","Healthy","Early Degradation",92.4506911187972
+"B0045","Healthy","Severe Degradation",90.1231572460717
+"B0045","Healthy","Healthy",90.3054126901794
+"B0045","Early Degradation","Severe Degradation",87.9254816875055
+"B0045","Early Degradation","Moderate Degradation",88.1585469786936
+"B0045","Early Degradation","Severe Degradation",87.1341384793874
+"B0045","Early Degradation","Healthy",89.8423813075316
+"B0045","Early Degradation","Healthy",88.388891374387
+"B0045","Early Degradation","Severe Degradation",86.4151629603107
+"B0045","Early Degradation","Severe Degradation",85.2344544186013
+"B0045","Early Degradation","Healthy",84.7729683880098
+"B0045","Early Degradation","Moderate Degradation",83.6795254646282
+"B0045","Early Degradation","Healthy",82.5641478242067
+"B0045","Early Degradation","Early Degradation",82.3238643154509
+"B0045","Early Degradation","Healthy",80.89782064611
+"B0045","Early Degradation","Moderate Degradation",80.5383677338218
+"B0045","Early Degradation","Moderate Degradation",80.6828219457602
+"B0045","Early Degradation","Early Degradation",81.2316170328799
+"B0045","Early Degradation","Early Degradation",81.0441395035507
+"B0045","Moderate Degradation","Healthy",79.8811404564077
+"B0045","Moderate Degradation","Moderate Degradation",79.4776645267451
+"B0045","Moderate Degradation","Healthy",78.4134477813757
+"B0045","Moderate Degradation","Healthy",78.1084987867971
+"B0045","Moderate Degradation","Healthy",78.7573671144724
+"B0045","Moderate Degradation","Early Degradation",77.1860545818122
+"B0045","Moderate Degradation","Severe Degradation",77.0682170845651
+"B0045","Early Degradation","Healthy",82.3495464036843
+"B0045","Early Degradation","Healthy",80.652658248381
+"B0045","Moderate Degradation","Early Degradation",78.6012425003914
+"B0045","Moderate Degradation","Healthy",79.2856262813624
+"B0045","Moderate Degradation","Severe Degradation",78.0824463563547
+"B0045","Moderate Degradation","Healthy",77.3082824799748
+"B0045","Moderate Degradation","Healthy",76.1572931023473
+"B0045","Moderate Degradation","Moderate Degradation",75.3515401706386
+"B0045","Moderate Degradation","Healthy",76.8655021084524
+"B0045","Moderate Degradation","Healthy",74.7617696326436
+"B0045","Moderate Degradation","Healthy",74.8216962996061
+"B0045","Moderate Degradation","Severe Degradation",75.456468434826
+"B0045","Moderate Degradation","Severe Degradation",73.3058940282542
+"B0045","Moderate Degradation","Moderate Degradation",73.4713747119785
+"B0045","Moderate Degradation","Healthy",74.2445226417301
+"B0045","Moderate Degradation","Healthy",71.8884252891879
+"B0045","Moderate Degradation","Moderate Degradation",73.8420307019369
+"B0045","Moderate Degradation","Early Degradation",72.2037327361627
+"B0045","Moderate Degradation","Healthy",73.2292459852726
+"B0045","Moderate Degradation","Severe Degradation",71.0348268691871
+"B0045","Moderate Degradation","Early Degradation",72.0810881321537
+"B0045","Moderate Degradation","Early Degradation",74.0496201683508
+"B0045","Moderate Degradation","Severe Degradation",73.2600729803487
+"B0045","Moderate Degradation","Severe Degradation",72.9114131249359
+"B0045","Moderate Degradation","Severe Degradation",72.6056759874091
+"B0045","Moderate Degradation","Severe Degradation",71.7634517515502
+"B0045","Severe Degradation","Healthy",69.5526940217721
+"B0045","Severe Degradation","Severe Degradation",69.7116836833039
+"B0045","Moderate Degradation","Healthy",72.6872328236134
+"B0045","Moderate Degradation","Moderate Degradation",70.9237433944925
+"B0045","Moderate Degradation","Healthy",71.0587859591589
+"B0045","Moderate Degradation","Early Degradation",70.7907909495284
+"B0045","Moderate Degradation","Healthy",73.3829690475614
+"B0045","Moderate Degradation","Early Degradation",71.5943395630536
+"B0045","Moderate Degradation","Early Degradation",71.1545007694756
+"B0045","Severe Degradation","Severe Degradation",69.8498466282631
+"B0045","Severe Degradation","Healthy",68.5666515306078
+"B0046","Healthy","Healthy",100.866706967402
+"B0046","Healthy","Severe Degradation",100
+"B0046","Healthy","Moderate Degradation",98.852020064486
+"B0046","Healthy","Healthy",97.7603296877916
+"B0046","Healthy","Moderate Degradation",97.0617318342232
+"B0046","Healthy","Severe Degradation",96.8441776027431
+"B0046","Healthy","Early Degradation",96.8805623516159
+"B0046","Healthy","Severe Degradation",96.0707115699162
+"B0046","Healthy","Healthy",95.0218966773354
+"B0046","Healthy","Healthy",94.4690889587171
+"B0046","Healthy","Healthy",93.4271042505862
+"B0046","Healthy","Severe Degradation",94.6986270278673
+"B0046","Healthy","Severe Degradation",95.4011489336482
+"B0046","Healthy","Early Degradation",94.3714793955705
+"B0046","Healthy","Moderate Degradation",93.514171876229
+"B0046","Healthy","Moderate Degradation",92.4091424634243
+"B0046","Healthy","Healthy",91.2989529228188
+"B0046","Healthy","Early Degradation",90.5833740499242
+"B0046","Healthy","Moderate Degradation",93.8066877337655
+"B0046","Early Degradation","Severe Degradation",89.1190374919317
+"B0046","Early Degradation","Severe Degradation",88.4261067525266
+"B0046","Early Degradation","Moderate Degradation",87.6954374366322
+"B0046","Early Degradation","Moderate Degradation",87.3132330634919
+"B0046","Early Degradation","Severe Degradation",86.4417161604726
+"B0046","Early Degradation","Severe Degradation",85.6716219677769
+"B0046","Early Degradation","Moderate Degradation",85.5904555089381
+"B0046","Early Degradation","Moderate Degradation",84.6214960287401
+"B0046","Early Degradation","Healthy",84.5872935865033
+"B0046","Early Degradation","Healthy",83.9281886429312
+"B0046","Early Degradation","Moderate Degradation",82.6360621886163
+"B0046","Early Degradation","Moderate Degradation",82.5118927094703
+"B0046","Early Degradation","Early Degradation",85.4962999106155
+"B0046","Early Degradation","Moderate Degradation",86.7749581495183
+"B0046","Early Degradation","Early Degradation",85.0140302767948
+"B0046","Early Degradation","Severe Degradation",84.6469643987424
+"B0046","Early Degradation","Healthy",83.013159750112
+"B0046","Early Degradation","Severe Degradation",82.1789970965033
+"B0046","Early Degradation","Healthy",81.7799189748789
+"B0046","Early Degradation","Severe Degradation",81.4233022640328
+"B0046","Early Degradation","Moderate Degradation",80.1946862985023
+"B0046","Moderate Degradation","Healthy",79.5532932671105
+"B0046","Moderate Degradation","Moderate Degradation",79.1734530142899
+"B0046","Moderate Degradation","Severe Degradation",78.4502121669495
+"B0046","Moderate Degradation","Early Degradation",77.8050392574679
+"B0046","Moderate Degradation","Severe Degradation",77.6866014344646
+"B0046","Moderate Degradation","Early Degradation",77.0347475469088
+"B0046","Moderate Degradation","Severe Degradation",76.5062250768424
+"B0046","Moderate Degradation","Early Degradation",76.5264909667263
+"B0046","Moderate Degradation","Early Degradation",75.5059029456549
+"B0046","Moderate Degradation","Early Degradation",75.7155246955395
+"B0046","Moderate Degradation","Moderate Degradation",74.7585210760195
+"B0046","Early Degradation","Moderate Degradation",80.7732083655525
+"B0046","Early Degradation","Healthy",80.628548450921
+"B0046","Moderate Degradation","Severe Degradation",79.6426046906119
+"B0046","Moderate Degradation","Severe Degradation",78.6556148964529
+"B0046","Moderate Degradation","Early Degradation",77.4743696569427
+"B0046","Moderate Degradation","Healthy",76.7440419232994
+"B0046","Moderate Degradation","Healthy",77.185972581814
+"B0046","Moderate Degradation","Severe Degradation",77.9159816296713
+"B0046","Moderate Degradation","Healthy",76.9293277368243
+"B0046","Moderate Degradation","Healthy",75.9142019452935
+"B0046","Moderate Degradation","Severe Degradation",75.5254045137988
+"B0046","Early Degradation","Moderate Degradation",83.3655192660416
+"B0046","Early Degradation","Severe Degradation",80.1695409850002
+"B0046","Moderate Degradation","Early Degradation",79.2483406747022
+"B0046","Moderate Degradation","Early Degradation",78.1466046124493
+"B0046","Moderate Degradation","Early Degradation",76.8762500302691
+"B0046","Moderate Degradation","Moderate Degradation",76.7605515881638
+"B0047","Healthy","Severe Degradation",101.080178340114
+"B0047","Healthy","Healthy",100
+"B0047","Healthy","Healthy",98.3741869665754
+"B0047","Healthy","Healthy",97.2854735225136
+"B0047","Healthy","Early Degradation",96.073266310665
+"B0047","Healthy","Healthy",95.874023149472
+"B0047","Healthy","Healthy",94.8969404948352
+"B0047","Healthy","Moderate Degradation",94.1115880200293
+"B0047","Healthy","Moderate Degradation",92.8333284574725
+"B0047","Healthy","Moderate Degradation",92.0719774839011
+"B0047","Healthy","Severe Degradation",90.5274799206865
+"B0047","Healthy","Moderate Degradation",93.234289942532
+"B0047","Healthy","Moderate Degradation",93.2150557734719
+"B0047","Healthy","Early Degradation",91.955976692553
+"B0047","Healthy","Healthy",90.8777167886511
+"B0047","Early Degradation","Early Degradation",89.5009830848592
+"B0047","Early Degradation","Healthy",87.8704439180187
+"B0047","Early Degradation","Moderate Degradation",86.9448309461688
+"B0047","Early Degradation","Severe Degradation",88.8166893982853
+"B0047","Early Degradation","Healthy",85.2023015555914
+"B0047","Early Degradation","Severe Degradation",84.9903391413141
+"B0047","Early Degradation","Moderate Degradation",83.550491895073
+"B0047","Early Degradation","Healthy",83.952674577138
+"B0047","Early Degradation","Healthy",82.3140733595304
+"B0047","Early Degradation","Moderate Degradation",81.5533917479707
+"B0047","Early Degradation","Healthy",81.4341168912932
+"B0047","Early Degradation","Healthy",80.4989589269528
+"B0047","Early Degradation","Early Degradation",80.7216126186862
+"B0047","Early Degradation","Moderate Degradation",80.0585883390301
+"B0047","Moderate Degradation","Healthy",78.778540226108
+"B0047","Moderate Degradation","Healthy",78.6634437692931
+"B0047","Early Degradation","Early Degradation",83.6425550626551
+"B0047","Early Degradation","Healthy",83.8700680067317
+"B0047","Early Degradation","Healthy",82.6648795807192
+"B0047","Early Degradation","Severe Degradation",81.7858100240193
+"B0047","Early Degradation","Moderate Degradation",80.4286235131981
+"B0047","Moderate Degradation","Moderate Degradation",79.5656467901157
+"B0047","Moderate Degradation","Early Degradation",78.9254433750602
+"B0047","Moderate Degradation","Moderate Degradation",78.8591652765488
+"B0047","Moderate Degradation","Healthy",77.3879735030408
+"B0047","Moderate Degradation","Healthy",77.0209599223672
+"B0047","Moderate Degradation","Severe Degradation",76.6245306511199
+"B0047","Moderate Degradation","Healthy",76.1799962572979
+"B0047","Moderate Degradation","Early Degradation",75.8299158381903
+"B0047","Moderate Degradation","Moderate Degradation",75.7124516986467
+"B0047","Moderate Degradation","Severe Degradation",75.3316426870579
+"B0047","Moderate Degradation","Severe Degradation",74.5079324125808
+"B0047","Moderate Degradation","Severe Degradation",75.0658234127054
+"B0047","Moderate Degradation","Moderate Degradation",74.0685453673562
+"B0047","Moderate Degradation","Moderate Degradation",74.2696534619664
+"B0047","Moderate Degradation","Early Degradation",73.3369622474519
+"B0047","Moderate Degradation","Healthy",78.9608748474548
+"B0047","Moderate Degradation","Moderate Degradation",79.6537092478099
+"B0047","Moderate Degradation","Severe Degradation",78.9542914554926
+"B0047","Moderate Degradation","Healthy",78.0091548002697
+"B0047","Moderate Degradation","Early Degradation",77.105584087122
+"B0047","Moderate Degradation","Healthy",76.3631976943864
+"B0047","Moderate Degradation","Early Degradation",76.8109247616471
+"B0047","Moderate Degradation","Severe Degradation",77.531125657675
+"B0047","Moderate Degradation","Healthy",76.8405981798873
+"B0047","Moderate Degradation","Early Degradation",75.8554999536981
+"B0047","Moderate Degradation","Moderate Degradation",75.4865061590414
+"B0047","Early Degradation","Healthy",80.9846482881048
+"B0047","Moderate Degradation","Early Degradation",79.7775484094776
+"B0047","Moderate Degradation","Healthy",78.8895570859747
+"B0047","Moderate Degradation","Early Degradation",78.0744695202969
+"B0047","Moderate Degradation","Moderate Degradation",76.8159429068902
+"B0047","Moderate Degradation","Early Degradation",76.7009437113526
